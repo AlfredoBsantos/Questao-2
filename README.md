@@ -24,7 +24,7 @@ O projeto simula o comportamento de um robô que pode se mover dentro de uma sal
 
 Para entender melhor como o projeto foi construído e como ele funciona, assista ao vídeo explicativo no YouTube! Nele, mostro cada detalhe do código e o funcionamento do robô de maneira clara e didática:
 
-[👉 Assista ao vídeo explicativo aqui]([[https://www.youtube.com/watch?v=SEU_VIDEO_ID](https://youtu.be/pjNB3ws-FJc)](https://youtu.be/pjNB3ws-FJc))
+[👉 Assista ao vídeo explicativo aqui](https://youtu.be/pjNB3ws-FJc)
 
 ---
 
